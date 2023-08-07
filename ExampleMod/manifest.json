@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "ExampleMod",
+  "name": "ExampleMod",
+  "author": "BeatForge",
+  "version": "0.1.0",
+  "description": "An example mod for Beat Saber.",
+  "gameVersion": "1.29.1",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}
